@@ -1,6 +1,6 @@
 # PKB-UAS-1614370464-1
 
-# PERTANYAAN PERTAMA
+# SOAL PERTAMA
 
 * a)  Siapakah pengganti presiden Suwilo?
 
