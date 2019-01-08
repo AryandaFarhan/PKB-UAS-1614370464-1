@@ -3,3 +3,5 @@
 # PERTANYAAN PERTAMA
 
 * a)  Siapakah pengganti presiden Suwilo?
+
+pengganti(y,suwilo).
